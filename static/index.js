@@ -350,8 +350,8 @@
         SubmitResults();
         if (score <= 49) return '废！';
         if (score <= 99) return '我发现你这小孩老废嘞！';
-        if (score <= 149) return '不想在这班里呆着滚出去';
-        if (score <= 199) return '像鹰一样！';
+        if (score <= 149) return '像鹰一样！！';
+        if (score <= 199) return '太厉害了！！！';
         return '下回给我考好';
     }
 
